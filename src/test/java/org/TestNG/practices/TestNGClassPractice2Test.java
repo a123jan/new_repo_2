@@ -20,7 +20,7 @@ public class TestNGClassPractice2Test {
 		System.out.println("Test4 -> class2");
 		System.out.println("bye");
 		System.out.println("hi");
-	//hii12
+	//hii112
 		
 	}
 	
